@@ -8,6 +8,21 @@ I recently got really into metalwork and forging, and as my first large project 
 
 In order to solve this problem, I wrote a python script that utilizes a simple packing problem approach, using a greedy placement algorithm. The shapes that I am trying to fit on my stock sheet metal are large/medium/small circles (representing the shapes of the three sizes of petals), small rectangle (representing the approximate shape of my leaves), and one large rectangle (representing the star shape that is found at the base of the petals on a rose. At the moment, this is a rough approximation, where the rectangle is a bounding box of the desired shape. I plan on refining this and making the bounding box more precise in the near future)
 
+# Finished Rose
+Powdercoated mat black
 
-## How to Make a Rose
-![a.jpg](a.jpg)
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="400"/>
+
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/powdercoated4.jpg?raw=true" alt="Image 1" width="400"/>
+
+No Finish/Unpainted
+
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="400"/>
+
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="400"/>
+
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="400"/>
+
+# Ok, Now How Do We Make This Thing?
+
+TODO
