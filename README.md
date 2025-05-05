@@ -8,6 +8,9 @@ I recently got really into metalwork and forging, and as my first large project 
 
 In order to solve this problem, I wrote a python script that utilizes a simple packing problem approach, using a greedy placement algorithm. The shapes that I am trying to fit on my stock sheet metal are large/medium/small circles (representing the shapes of the three sizes of petals), small rectangle (representing the approximate shape of my leaves), and one large rectangle (representing the star shape that is found at the base of the petals on a rose. At the moment, this is a rough approximation, where the rectangle is a bounding box of the desired shape. I plan on refining this and making the bounding box more precise in the near future)
 
+![rose4.jpg](metalwork/rose4.jpg)
 
-## How to Make a Rose
-![a.jpg](a.jpg)
+![rose5.jpg](metalwork/rose5.jpg)
+
+Powdercoated mat black
+![powdercoated2.jpg](metalwork/powdercoated2.jpg)
