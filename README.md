@@ -13,13 +13,16 @@ Powdercoated mat black
 
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="400"/>
 
+
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/powdercoated4.jpg?raw=true" alt="Image 1" width="400"/>
 
 No Finish/Unpainted
 
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="400"/>
 
+
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="400"/>
+
 
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/updating_readme/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="400"/>
 
