@@ -94,13 +94,13 @@ def place_shapes_on_sheets():
             found_spot = False
 
             for x in range(
-                0, int((SHEET_WIDTH - shape_width) // (shape_width + MARGIN)) + 1
+                0, int((SHEET_WIDTH - shape_width) // (shape_width + margin)) + 1
             ):
                 for y in range(
-                    0, int((SHEET_HEIGHT - shape_height) // (shape_height + MARGIN)) + 1
+                    0, int((SHEET_HEIGHT - shape_height) // (shape_height + margin)) + 1
                 ):
-                    x_pos = x * (shape_width + MARGIN)
-                    y_pos = y * (shape_height + MARGIN)
+                    x_pos = x * (shape_width + margin)
+                    y_pos = y * (shape_height + margin)
 
                     shape = translate(
                         shape_sample, xoff=x_pos - minx, yoff=y_pos - miny
