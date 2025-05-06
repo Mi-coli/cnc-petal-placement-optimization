@@ -17,8 +17,8 @@ If you are a Python novice, then I recommend you stick to the Jupyter notebook s
 Powdercoated mat black
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="300"/>
-  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated4.jpg?raw=true" alt="Image 2" width="300"/>
+  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="400"/>
+  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated4.jpg?raw=true" alt="Image 2" width="400"/>
 </div>
 
 No Finish/Unpainted
