@@ -45,8 +45,8 @@ Initially, I freehanded the shapes onto the surface using a mug as a guide for m
 I then measured out the diameter of the metal rod that I planned on using for the stem, and punctured a hole of that size in the center using a step drill. Using a metal sanding belt, I gave the petals more shape, and then using a wire wheel brush, I removed the remaining marker marks off the surface, as well as any of the sharp edges that resulted from the cutting process. This also prepared the surface for welding.
 
 <div style="display: flex; gap: 10px;">
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/b.jpg?raw=true" alt="Image 1" width="250"/>
-<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/c.jpg?raw=true" alt="Image 1" width="250"/> 
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/b.jpg?raw=true" alt="Image 1" width="300"/> 
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/c.jpg?raw=true" alt="Image 1" width="300"/> 
 </div>
 
 Next, I textured the petals with a hammer to give them a more realistic look (yet another reminder that flaws are what makes things beautiful), and then made sure that all the parts can fit snugly on the "stem". You want a tight tolerance here, because if there is a large gap between the petals and the stem, it'll be harder to weld; and welding thin sheet metal to thick metal is already tricky, so no need to make more work for yourself. 
