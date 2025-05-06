@@ -17,18 +17,18 @@ If you are a Python novice, then I recommend you stick to the Jupyter notebook s
 Powdercoated mat black
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="300"/>
-  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated4.jpg?raw=true" alt="Image 2" width="300"/>
+  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="400"/>
+  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated4.jpg?raw=true" alt="Image 2" width="400"/>
 </div>
 
 No Finish/Unpainted
 
 <div style="display: flex; gap: 10px;">
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="300"/>
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="300"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="400"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="400"/>
 </div>
 
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="300"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="400"/>
 
 
 # Now how do we make this thing?
@@ -38,15 +38,15 @@ For this project, I used 22 gauge mild steel sheet and a steel rod. I found that
 Initially, I freehanded the shapes onto the surface using a mug as a guide for my circle. Feel free to freehand them yourself or use the shapes I provided in the `shape_files` folder. Trace out each shape and cut out it out from your stock material. This step varies depending on if you're cutting out by hand or using the plasma CNC, but for the initial proof of concept, I usually prefer to make things by hand since machine calibrating can be time-consuming (and is the least interesting part of the process, in my opinion).
 
 <div style="display: flex; gap: 10px;">
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/f.png?raw=true" alt="Image 1" width="400"/>
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/a.jpg?raw=true" alt="Image 1" width="400"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/f.png?raw=true" alt="Image 1" width="300"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/a.jpg?raw=true" alt="Image 1" width="300"/>
 </div>
 
 I then measured out the diameter of the metal rod that I planned on using for the stem, and punctured a hole of that size in the center using a step drill. Using a metal sanding belt, I gave the petals more shape, and then using a wire wheel brush, I removed the remaining marker marks off the surface, as well as any of the sharp edges that resulted from the cutting process. This also prepared the surface for welding.
 
 <div style="display: flex; gap: 10px;">
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/b.jpg?raw=true" alt="Image 1" width="400"/>
-<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/c.jpg?raw=true" alt="Image 1" width="400"/> 
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/b.jpg?raw=true" alt="Image 1" width="300"/> 
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/c.jpg?raw=true" alt="Image 1" width="300"/> 
 </div>
 
 Next, I textured the petals with a hammer to give them a more realistic look (yet another reminder that flaws are what makes things beautiful), and then made sure that all the parts can fit snugly on the "stem". You want a tight tolerance here, because if there is a large gap between the petals and the stem, it'll be harder to weld; and welding thin sheet metal to thick metal is already tricky, so no need to make more work for yourself. 
@@ -58,6 +58,8 @@ Next, I textured the petals with a hammer to give them a more realistic look (ye
 
 Then, we weld it all together.
 
-I made sure to weld the star shape from the bottom, and then weld the petals from the top. That way, when everything gets folded, the welding spots will be covered and we'll be able to make it look more like a real rose
+I made sure to weld the star shape from the bottom, and the petals from the top. That way, when the star shape is folded down, it will cover the weld spot, and when the petals are folded up, they will hide the weld that is holding them in place. Additionally, this will prevent any gaps between the start shape and the outermost petal.
 
-<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/g.png?raw=true" alt="Image 1" width="400"/>
+<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/g.png?raw=true" alt="Image 1" width="600"/>
+
+*In progress*
