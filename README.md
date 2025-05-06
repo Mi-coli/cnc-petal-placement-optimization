@@ -15,15 +15,17 @@ If you are a Python novice, then I recommend you stick to the Jupyter notebook s
 # Finished Rose
 Powdercoated mat black
 
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="300"/>
-
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated4.jpg?raw=true" alt="Image 1" width="300"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated2.jpg?raw=true" alt="Image 1" width="300"/>
+  <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/powdercoated4.jpg?raw=true" alt="Image 2" width="300"/>
+</div>
 
 No Finish/Unpainted
 
+<div style="display: flex; gap: 10px;">
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="300"/>
-
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="300"/>
+</div>
 
 <p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="300"/>
 
@@ -33,6 +35,10 @@ No Finish/Unpainted
 First step
 
 <p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/a.jpg?raw=true" alt="Image 1" width="300"/> 
+
+Another first step
+
+<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/a.jpg?raw=true" alt="Image 1" width="300"/>
 
 
 Second step
@@ -45,7 +51,7 @@ Third step
 
 Fourth Step
 
-
+<div style="display: flex; gap: 10px;">
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/d.jpg?raw=true" alt="Image 1" width="300"/>
-
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/e.jpg?raw=true" alt="Image 1" width="300"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/e.jpg?raw=true" alt="Image 1" width="500"/>
+</div>
