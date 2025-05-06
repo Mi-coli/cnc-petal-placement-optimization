@@ -24,11 +24,11 @@ Powdercoated mat black
 No Finish/Unpainted
 
 <div style="display: flex; gap: 10px;">
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="300"/>
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="300"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose5.jpg?raw=true" alt="Image 1" width="400"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="400"/>
 </div>
 
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="300"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="400"/>
 
 
 # Now how do we make this thing?
