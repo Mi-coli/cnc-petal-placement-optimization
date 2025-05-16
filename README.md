@@ -1,8 +1,5 @@
 # Optimization of Rose Petal Placements on Sheet Metal
 
-*PROJECT CURRENTLY IN PROGRESS!* <br>
-Please don't mind any missing pieces in my documentation or README as I'm still actively making changes
-
 Python version: 3.11.7 <br/>
 
 I recently got really into metalwork and forging, and as my first large project I decided to make metal roses that I can gift and sell during small maker markets. This project requires cutting out petal shapes out of sheets of metal, welding them together onto a "stem" (aka a metal rod), and then forging the petals so that they can be bent into shape. The steps to make the rose will be included at the bottom of this README, as well as the SVG files that I created for the shapes and cut out on the plasma CNC cutter. However, one issue that I came across while starting this project was figuring out how to optimize the shape placement on my stock metal in order to get as many roses as possible (because who has money to let material go to waste these days??). 
@@ -28,7 +25,7 @@ No Finish/Unpainted
 <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose4.jpg?raw=true" alt="Image 1" width="400"/>
 </div>
 
-<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose8.jpg?raw=true" alt="Image 1" width="400"/>
+<img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/finished_and_unfinished.jpg?raw=true" alt="Image 1" width="400"/>
 
 
 # Now how do we make this thing?
@@ -51,6 +48,10 @@ No Finish/Unpainted
 I found that 22ga is the ideal thickness, since anything thicker doesn't look delicate enough to be a rose, and anything thinner is too malleable, which makes the rose petals too easy to damage and deform.
 
 Initially, I freehanded the shapes onto the surface using a mug as a guide for my circle. I found out that the sizes of the circles used for the petals needs to vary in radius in order for the petals to look blended when folded. Feel free to freehand them yourself and test out different diameters or use the shapes I provided in the `shape_files` folder which already have the proportions that I found worked for me. 
+
+Shapes you need:
+
+<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/rose_shapes.png?raw=true" alt="Image 1" width="600"/>
 
 Trace out each shape and cut out it out from your stock material.
 
@@ -81,12 +82,9 @@ At this point your rose will look like a 5 year old's abstract drawing, so remem
 
 You can now clamp the rose and get ready to bend the petals. I recommend using a handheld torch over a forge since 22ga doesn't hold on to the heat long enough, but if you're using a thicker gauge you might be able to get away with the forge.
 
-*Pic of flower bending*
+<p align="center"> <img src="https://github.com/Mi-coli/cnc-petal-placement-optimization/blob/main/instructional_images/bending_petals.png?raw=true" alt="Image 1" width="600"/>
+
 
 The final step is to texture and attach the leaves. I usually leave this part for last because the leaf placement can get in the way of clamping the stem properly during the bending process.
 
 And that's it!
-
-
-
-*In progress*
