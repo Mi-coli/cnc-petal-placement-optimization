@@ -1,8 +1,5 @@
 # Optimization of Rose Petal Placements on Sheet Metal
 
-*PROJECT CURRENTLY IN PROGRESS!* <br>
-Please don't mind any missing pieces in my documentation or README as I'm still actively making changes
-
 Python version: 3.11.7 <br/>
 
 I recently got really into metalwork and forging, and as my first large project I decided to make metal roses that I can gift and sell during small maker markets. This project requires cutting out petal shapes out of sheets of metal, welding them together onto a "stem" (aka a metal rod), and then forging the petals so that they can be bent into shape. The steps to make the rose will be included at the bottom of this README, as well as the SVG files that I created for the shapes and cut out on the plasma CNC cutter. However, one issue that I came across while starting this project was figuring out how to optimize the shape placement on my stock metal in order to get as many roses as possible (because who has money to let material go to waste these days??). 
